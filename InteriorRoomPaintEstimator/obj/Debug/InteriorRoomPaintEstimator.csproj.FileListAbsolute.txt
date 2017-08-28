@@ -1,0 +1,9 @@
+c:\users\michelle\documents\visual studio 2015\Projects\InteriorRoomPaintEstimator\InteriorRoomPaintEstimator\bin\Debug\InteriorRoomPaintEstimator.exe.config
+c:\users\michelle\documents\visual studio 2015\Projects\InteriorRoomPaintEstimator\InteriorRoomPaintEstimator\bin\Debug\InteriorRoomPaintEstimator.exe
+c:\users\michelle\documents\visual studio 2015\Projects\InteriorRoomPaintEstimator\InteriorRoomPaintEstimator\bin\Debug\InteriorRoomPaintEstimator.pdb
+c:\users\michelle\documents\visual studio 2015\Projects\InteriorRoomPaintEstimator\InteriorRoomPaintEstimator\obj\Debug\InteriorRoomPaintEstimator.csprojResolveAssemblyReference.cache
+c:\users\michelle\documents\visual studio 2015\Projects\InteriorRoomPaintEstimator\InteriorRoomPaintEstimator\obj\Debug\InteriorRoomPaintEstimator.InteriorPaintRoomEstimatorForm.resources
+c:\users\michelle\documents\visual studio 2015\Projects\InteriorRoomPaintEstimator\InteriorRoomPaintEstimator\obj\Debug\InteriorRoomPaintEstimator.Properties.Resources.resources
+c:\users\michelle\documents\visual studio 2015\Projects\InteriorRoomPaintEstimator\InteriorRoomPaintEstimator\obj\Debug\InteriorRoomPaintEstimator.csproj.GenerateResource.Cache
+c:\users\michelle\documents\visual studio 2015\Projects\InteriorRoomPaintEstimator\InteriorRoomPaintEstimator\obj\Debug\InteriorRoomPaintEstimator.exe
+c:\users\michelle\documents\visual studio 2015\Projects\InteriorRoomPaintEstimator\InteriorRoomPaintEstimator\obj\Debug\InteriorRoomPaintEstimator.pdb
