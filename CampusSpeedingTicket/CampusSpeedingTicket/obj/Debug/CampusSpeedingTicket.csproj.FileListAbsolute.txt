@@ -1,0 +1,11 @@
+c:\users\michelle\documents\visual studio 2015\Projects\CampusSpeedingTicket\CampusSpeedingTicket\bin\Debug\CampusSpeedingTicket.exe.config
+c:\users\michelle\documents\visual studio 2015\Projects\CampusSpeedingTicket\CampusSpeedingTicket\obj\Debug\CampusSpeedingTicket.csprojResolveAssemblyReference.cache
+c:\users\michelle\documents\visual studio 2015\Projects\CampusSpeedingTicket\CampusSpeedingTicket\obj\Debug\CampusSpeedingTicket.Form1.resources
+c:\users\michelle\documents\visual studio 2015\Projects\CampusSpeedingTicket\CampusSpeedingTicket\obj\Debug\CampusSpeedingTicket.Properties.Resources.resources
+c:\users\michelle\documents\visual studio 2015\Projects\CampusSpeedingTicket\CampusSpeedingTicket\obj\Debug\CampusSpeedingTicket.csproj.GenerateResource.Cache
+c:\users\michelle\documents\visual studio 2015\Projects\CampusSpeedingTicket\CampusSpeedingTicket\bin\Debug\CampusSpeedingTicket.exe
+c:\users\michelle\documents\visual studio 2015\Projects\CampusSpeedingTicket\CampusSpeedingTicket\bin\Debug\CampusSpeedingTicket.pdb
+c:\users\michelle\documents\visual studio 2015\Projects\CampusSpeedingTicket\CampusSpeedingTicket\obj\Debug\CampusSpeedingTicket.exe
+c:\users\michelle\documents\visual studio 2015\Projects\CampusSpeedingTicket\CampusSpeedingTicket\obj\Debug\CampusSpeedingTicket.pdb
+c:\users\michelle\documents\visual studio 2015\Projects\CampusSpeedingTicket\CampusSpeedingTicket\obj\Debug\CampusSpeedingTicket.speedingTicket.resources
+C:\Users\Michelle\Documents\Visual Studio 2015\Projects\CampusSpeedingTicket\CampusSpeedingTicket\obj\Debug\CampusSpeedingTicket.Program.resources
